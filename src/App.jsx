@@ -22,7 +22,7 @@ const userData = {
   name: "Varshini Krishnamurthy",
   role: "Grad Student & Machine Learning DA",
   location: "Sheffield, United Kingdom",
-  profileImage: "/images/profile.jpg", 
+  profileImage: "images/profile.jpg", 
   
   socials: {
     linkedin: "https://www.linkedin.com/in/varshinikrishn/",
@@ -37,21 +37,21 @@ const userData = {
       company: "University of Sheffield",
       role: "Grad Student",
       date: "2025",
-      logo: "/images/sheffield.jpg",
+      logo: "images/sheffield.jpg",
       desc: "Advisor: Andrew Stratton" 
     },
     {
       company: "Amazon",
       role: "Machine Learning DA",
       date: "July 2025 - Present",
-      logo: "/images/amazon.jpg", 
+      logo: "images/amazon.jpg", 
       desc: null 
     },
     {
       company: "Property Loop",
       role: "AI / ML Engineer",
       date: "March - June 2025",
-      logo: "/images/property-loop.jpg",
+      logo: "images/property-loop.jpg",
       desc: null 
     }
   ],
@@ -61,7 +61,7 @@ const userData = {
       title: "Yantra AI: An intelligence platform which interacts with manufacturing operations",
       status: "2025",
       venue: "V Krishnamurthy • arXiv preprint arXiv:2512.15758",
-      image: "/images/research-paper.jpg", 
+      image: "images/research-paper.jpg", 
       abstract: "A comprehensive intelligence platform designed to optimize and interact with complex manufacturing operations using advanced machine learning techniques.",
       links: [
         { label: "View Paper", url: "https://scholar.google.com/citations?user=R4NlDZIAAAAJ&hl=en" }
