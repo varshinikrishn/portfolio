@@ -20,7 +20,7 @@ import {
 // --- DATA SECTION ---
 const userData = {
   name: "Varshini Krishnamurthy",
-  role: "Grad Student & Machine Learning DA",
+  role: "Applied Artificial Intelligence",
   location: "Sheffield, United Kingdom",
   profileImage: "images/profile.jpg", 
   
@@ -42,14 +42,14 @@ const userData = {
     },
     {
       company: "Amazon",
-      role: "Machine Learning DA",
+      role: "Data Analyst",
       date: "July 2025 - Present",
       logo: "images/amazon.jpg", 
       desc: null 
     },
     {
       company: "Property Loop",
-      role: "AI / ML Engineer",
+      role: "AI Engineer",
       date: "March - June 2025",
       logo: "images/property-loop.jpg",
       desc: null 
