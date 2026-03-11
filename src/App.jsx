@@ -35,7 +35,7 @@ const userData = {
   experience: [
     {
       company: "University of Sheffield",
-      role: "Grad Student",
+      role: "Graduate",
       date: "2025",
       logo: "images/sheffield.jpg",
       desc: "Advisor: Andrew Stratton" 
